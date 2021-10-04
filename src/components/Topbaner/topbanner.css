@@ -1,0 +1,19 @@
+.lb_we_do {
+  background-image: linear-gradient(
+    to right,
+    rgb(3 15 39 / 69%),
+    rgb(3 15 39 / 70%)
+  );
+  min-height: 70vh;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  box-shadow: inset 0 0 0 1000px rgba(5, 6, 66, 0.5);
+}
+
+.lb_whatwedo_title {
+  color: #fff;
+  font-size: 38px;
+  text-transform: capitalize;
+  font-weight: 500;
+}

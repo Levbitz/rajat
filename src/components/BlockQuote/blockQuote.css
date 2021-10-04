@@ -1,0 +1,25 @@
+.lb_blockquate_wrap {
+  background-image: url(../../assets/images/tools/jcb.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 30vh;
+  padding-top: 50px;
+
+  box-shadow: inset 0 0 0 1000px rgba(168, 24, 72, 0.5);
+}
+
+.lb_blockquate_container {
+  width: 90%;
+  margin: auto;
+}
+
+.lb_blockquate_container h5 {
+  color: #fff;
+  font-weight: bold;
+}
+
+.lb_blockquate_container .btn {
+  margin-top: 20px;
+  font-weight: 700;
+}
